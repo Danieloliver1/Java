@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "ExemploLogger",
+            "request": "launch",
+            "mainClass": "ExemploLogger",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "Condicional",
+            "request": "launch",
+            "mainClass": "Condicional",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "Condicional",
+            "request": "launch",
+            "mainClass": "Condicional",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Leitura",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "Escopo_da_variavel",
+            "request": "launch",
+            "mainClass": "Escopo_da_variavel",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "aula01_java_programmer_1a0aaff6"
+        }
+    ]
+}
